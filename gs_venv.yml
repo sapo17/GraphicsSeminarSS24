@@ -1,0 +1,9 @@
+name: gs_venv
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - ipykernel
+prefix: ./gs_venv
