@@ -24,3 +24,8 @@ conda env export --from-history
 ```
 conda env update --prefix ./gs_venv --file gs_venv.yml  --prune
 ```
+
+### Git submodules
+
+- To retrieve submodules that contain experiments:
+  - `git submodule update --init --recursive`

@@ -1,0 +1,3 @@
+[submodule "experiments/intrinsic-triangulations-tutorial"]
+	path = experiments/intrinsic-triangulations-tutorial
+	url = https://github.com/nmwsharp/intrinsic-triangulations-tutorial.git

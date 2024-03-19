@@ -1,9 +1,13 @@
 name: gs_venv
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
   - scipy
   - ipykernel
+  - ipywidgets
+  - ipympl
+  - polyscope
 prefix: ./gs_venv
