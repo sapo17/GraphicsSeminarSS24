@@ -16,4 +16,8 @@ One way is Bowyer-Watson algorithm.
 4. Repeat these steps for all other points.
 
 
-See [also](https://www.youtube.com/watch?v=GctAunEuHt4&ab_channel=SCIco).
+See [also: quick video](https://www.youtube.com/watch?v=GctAunEuHt4&ab_channel=SCIco).
+
+
+See [also: 2D Delaunay Triangulation. By Hand. Without a Voronoi Diagram. Catie Jo](https://medium.com/@catiejo/2d-delaunay-triangulation-by-hand-without-a-voronoi-diagram-513156fd549f)
+
