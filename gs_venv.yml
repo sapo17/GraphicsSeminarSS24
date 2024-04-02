@@ -10,4 +10,8 @@ dependencies:
   - ipywidgets
   - ipympl
   - polyscope
+  - trimesh
+  - pip
+  - pip:
+    - triangle
 prefix: ./gs_venv

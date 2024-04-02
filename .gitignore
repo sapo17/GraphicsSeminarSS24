@@ -1,1 +1,3 @@
 gs_venv
+*.ini
+__pycache__
